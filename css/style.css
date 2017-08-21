@@ -1,4 +1,22 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
+/********************Megan's Styles******************/
+.megandevos-advice
+ {
+    color: #000;
+    height: 100%;
+    background: url(../img/bkgrd1.jpg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Roboto Mono', monospace;
+}
+.megans-advice  {
+  width: 400px;
+  text-align: justify;
+  margin-left: 240px;
+}
+
+.megandevos-advice footer {
+  margin-left: 240px;
+}
 
 /*****Bianca's Sytle*****/
 .bianca-advice {
@@ -7941,7 +7959,7 @@ font-size: 20px;
 
 /** kimberly styles**/
 .kimberlys-advice {
-  
+
   font-size: 0.85em;
   width: 50%;
   margin: 30px 0 0 30px;
